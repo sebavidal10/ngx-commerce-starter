@@ -61,6 +61,20 @@ Run `npm run build` to build the project. The build artifacts will be stored in 
 
 ---
 
+## 🗺️ Roadmap & Upcoming Features
+
+This project is in active development. Here are some of the features planned for the future:
+
+- [ ] **Advanced Product Filtering**: Search, category filters, and price ranges.
+- [ ] **Shopping Cart**: Full cart functionality with local storage persistence.
+- [ ] **Checkout Integration**: Integration with Stripe or PayPal for secure payments.
+- [ ] **User Auth**: Secure login/signup using Firebase or Auth0.
+- [ ] **Dark Mode**: Toggle between light and dark themes.
+- [ ] **I18n**: Multi-language support for global reach.
+- [ ] **SSR/Prerendering**: Enhanced SEO and performance using Angular SSR.
+
+---
+
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
